@@ -21,7 +21,7 @@ footer{display: flex; justify-content:space-around;align-items: center;backgroun
 @media screen and (max-width: 400px){body{width: 400px; margin: 0px; padding: 0px;}
 header{width: 400px;}
 .d1{display: flex; flex-direction: column; height: 2100px;}
-.d21{width:200px ;}
+.d21{width:250px ;}
 .d21>img{width:150px ;}
 img{width: 400px;}
 .d2{width: 400px;  }
