@@ -18,3 +18,16 @@ footer{display: flex; justify-content:space-around;align-items: center;backgroun
 .a1{margin:40px ; width: 300px;}
 .a2{width: 300px;}
 .d3{margin-left: 75px;}
+@media screen and (max-width: 400px){body{width: 400px; margin: 0px; padding: 0px;}
+header{width: 400px;}
+.d1{display: flex; flex-direction: column; height: 2100px;}
+.d21>img{width:150px ;}
+img{width: 400px;}
+.d2{width: 400px;  }
+footer{display: flex; flex-direction: column; width:400px ;}
+.a1{width: 400px;}
+iframe{width:300px ; margin-left: 50px;}
+#banner{width:400px ; height:600px ; background-attachment:fixed; background-repeat: no-repeat; background-size: cover;}
+
+
+}
